@@ -1,0 +1,8 @@
+jupyter
+scikit-learn
+numpy
+matplotlib
+seaborn
+pandas
+category_encoders
+torch
